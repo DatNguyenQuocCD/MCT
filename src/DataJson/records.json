@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"name_job": "Nhân Viên Văn Phòng",
+		"img": "https://vieclam24h.vn/img/vieclam24h_logo_customer.jpg",
+		"job_description": "Công Ty TNHH MTV Thương Mại Và Dịch Vụ See Fashion",
+		"salary": "7 - 10 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 2,
+		"name_job": "Quản Lý Vận Hành",
+		"img": "https://vieclam24h.vn/img/vieclam24h_logo_customer.jpg",
+		"job_description": "Công Ty TNHH Phần Mềm Husoft",
+		"salary": "15 - 20 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 3,
+		"name_job": "Kế Toán Trưởng",
+		"img": "https://vieclam24h.vn/img/vieclam24h_logo_customer.jpg",
+		"job_description": "Công Ty Cổ Phần Msport",
+		"salary": "20 - 30 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 4,
+		"name_job": "Nhân Viên Admin Văn Phòng",
+		"img": "https://cdn1.vieclam24h.vn/images/default/2022/06/16/images/165536617786.w-62.h-62.padding-1.jpeg?v=220513",
+		"job_description": "Công Ty Tnhh Yến Thị Tài Lộc",
+		"salary": "10 - 20 triệu",
+		"conntact": "Đồng Nai"
+	},
+	{
+		"id": 5,
+		"name_job": "Nhân Viên Chăm Sóc Khách Hàng",
+		"img": "https://cdn1.vieclam24h.vn/images/old_employer_avatar/images/445d2cdc3fb24048df238750e5eb7da7_4167701_vieclam24h_1597737836.w-62.h-62.padding-1.png?v=220513",
+		"job_description": "Công Ty Cổ Phần Phát Triển Kinh Doanh Thịnh Phát",
+		"salary": "5 - 12 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 6,
+		"name_job": "Nhân Viên Thành Phẩm",
+		"img": "https://cdn1.vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2020/10/15/6214055_vieclam24h_1602745004.w-62.h-62.padding-1.PNG?v=220513",
+		"job_description": "Công Ty TNHH Ant Printing",
+		"salary": "6 - 9 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 7,
+		"name_job": "Nhân Viên Merchandiser (Làm Tại Dĩ An, Bình Dương)",
+		"img": "https://cdn1.vieclam24h.vn/images/employer_avatar/2020/12/23/images/160871353967.w-62.h-62.padding-1.png?v=220513",
+		"job_description": "Công Ty TNHH Pungkook Sai Gon II",
+		"salary": "8 - 15 triệu",
+		"conntact": "Bình Dương"
+	},
+	{
+		"id": 8,
+		"name_job": "Nhân Viên Văn Phòng ",
+		"img": "https://cdn1.vieclam24h.vn/images/default/2022/06/09/images/165476715262.w-62.h-62.padding-1.jpeg?v=220513",
+		"job_description": "Công Ty Cổ Phần Đầu Tư Kinh Doanh Xây Dựng Địa Ốc Hoàng Gia",
+		"salary": "7 - 20 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 9,
+		"name_job": "Nhân Viên Kinh Doanh Thu Nhập Cao",
+		"img": "https://cdn1.vieclam24h.vn/images/employer_avatar/2022/06/07/images/165459009356.w-62.h-62.padding-1.png?v=220513",
+		"job_description": "Công Ty Tài Chính Trách Nhiệm Hữu Hạn Một Thành Viên Shinhan Việt Nam",
+		"salary": "10 - 15 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 10,
+		"name_job": "Nhân Viên Kinh Doanh",
+		"img": " ",
+		"job_description": "CÔNG TY CỔ PHẦN NHỰA THIẾU NIÊN TIỀN PHONG PHÍA NAM",
+		"salary": "10 - 25 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 11,
+		"name_job": "Kế Toán Viên Tại Quận 2 ",
+		"img": " ",
+		"job_description": "Répertoire Culinaire Vn",
+		"salary": "9 - 11 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 12,
+		"name_job": "Nhân Viên Xuất Nhập Khẩu",
+		"img": " ",
+		"job_description": "Công Ty TNHH Cheng Loong Bình Dương Paper",
+		"salary": "10 - 16 triệu",
+		"conntact": "Bình Dương"
+	},
+	{
+		"id": 13,
+		"name_job": "Nhân Viên Bán Hàng Quận 1 - Bình Thạnh - Tân Phú",
+		"img": " ",
+		"job_description": "Boshop.VN",
+		"salary": "7 - 15 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 14,
+		"name_job": "Nhân Viên Kinh Doanh",
+		"img": " ",
+		"job_description": "Công ty TNHH thương mại và dịch vụ Nguyễn Huy",
+		"salary": "20 - 30 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 15,
+		"name_job": "[Hà Nội] Trưởng Nhóm Marketing",
+		"img": " ",
+		"job_description": "Khách Hàng Của Việc Làm 24H",
+		"salary": "18 - 25 triệu",
+		"conntact": "Hà Nội"
+	},
+	{
+		"id": 16,
+		"name_job": "Nhân Viên Kinh Doanh Thiết Bị Bơm Nước",
+		"img": " ",
+		"job_description": "Công Ty TNHH Kỹ Thuật Thương Mại Bách Việt (Bavico)",
+		"salary": "10 - 15 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 17,
+		"name_job": "Nhân Viên Lễ Tân",
+		"img": " ",
+		"job_description": "Công Ty Tnhh Thương Mại Viễn Thông Trí Tuệ Việt",
+		"salary": "7 - 10 triệu",
+		"conntact": "TP.HCM"
+	},
+	{
+		"id": 18,
+		"name_job": "Nhân Viên Marketing Online",
+		"img": " ",
+		"job_description": "Công Ty TNHH Công Nghệ Và Điện Tử Trực Tuyến Tch",
+		"salary": "10 - 15 triệu",
+		"conntact": "Toàn quốc"
+	}
+]

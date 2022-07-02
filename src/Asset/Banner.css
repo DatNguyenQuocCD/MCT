@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  .banner{
+      width: 100%;
+      /* height: auto; */
+  }
+  #myVideo {
+      position: relative;
+    min-width: 100%; 
+    min-height: 300px;
+    z-index: -1;
+    filter: brightness(70%);
+  }
+  
+  .text-banner {
+    position: absolute;
+    top: 300px;
+    color: #f1f1f1;
+    width: 500px;
+    padding: 20px;
+  }
+
+  .col-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .title{
+    font-size: 350%;
+    font-weight: 800;
+  }
+
+  .call-us{
+    background-color: black;
+  }
+
+  .start-online{
+    background-color: #FF5829;
+  }
+
+  .title{
+    width: 500px;
+  }
+
+  .call-us,.start-online{
+    width: 235px;
+  }

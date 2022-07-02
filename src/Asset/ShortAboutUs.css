@@ -1,0 +1,39 @@
+.shortAbout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.about-left{
+    padding: 15%;
+    background-color: #FF5829;
+    color: white;
+}
+
+.about-left h1{
+    margin-top: 15%;
+}
+
+.more-see{
+    background-color: black;
+    padding: 3% 10%;
+    color: white;
+    font-size: 100%;
+    cursor: pointer;
+    border: none;
+    transition: all 1s;
+}
+
+.more-see:hover{
+    color: black;
+    background-color: white;
+}
+
+
+.about-right{
+    background-image: url("https://top10tphcm.com/wp-content/uploads/2019/05/top-dich-vu-giao-hang-nhanh-va-tiet-kiem-nhat-viet-nam.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    background-attachment: fixed;
+}

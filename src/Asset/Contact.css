@@ -1,0 +1,146 @@
+.contact--container {
+    width: 100%;
+    height: auto;
+}
+
+.contact--content {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.contact--content--right{
+    width: 100%;
+    height: 100%;
+    background-color: #FF5829;
+    text-align: center;
+    align-items: center;
+    padding: 250px 0;
+}
+
+.contact--title{
+    font-size: 62px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.contact--content--left{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.contact--content--left p{
+    padding: 0% 15%;
+}
+
+.contact--map{
+    width: 100%;
+    height: 70vh;
+    border: none;
+    overflow-y: hidden;
+}
+.map{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.contact--form {
+    width: 100%;
+    height: auto;
+    background-color: #FF5829;
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    text-align: center;
+}
+
+
+.contact--form--right{
+    width: 100%;
+    height: 100%;
+    padding: 150px 0;
+}
+
+.contact--form--right--text{
+    font-size: 20px;
+}
+
+.contact--form--left{
+    width: 100%;
+    height: 100%;
+    /* background-color: #000000; */
+}
+
+.form--contact{
+    width: 100%;
+    height: 100%;
+    padding: 24px 0;
+    margin: auto;
+}
+
+.form--contact--group{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+    align-items: center;
+    margin: 12px 0;
+}
+
+.form--contact--group label{
+    width: 10%;
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.form--contact-input{
+    width: 50%;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: none;
+}
+
+.btn {
+    /* width: 70%; */
+    padding: 12px ;
+    background-color: transparent;
+    border: none;
+    border-radius: 6px;
+}
+
+.btn--form--submit{
+    padding: 5%;
+    background-color: #ffffff;
+}
+
+.btn--form--submit:hover {
+    color: #FF5829;
+    background-color: #ffffff;
+}
+
+.col-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 500px;
+    margin-left: -18%;
+}
+
+.locations{
+    margin: 5%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+  }
+
+.col-3 div ul{
+    width: 150px;
+}

@@ -1,0 +1,38 @@
+  /* *{
+    overflow-x: hidden;
+  }
+
+  .text-center{
+    text-align: center;
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+
+   */
+   
+.Overall-component{
+
+  display: flex;
+  margin: 4%;
+}
+.modal-content{
+  width: 600px;
+  height: auto;
+  right: 50%;
+ 
+}
+.modal-title{
+  font-family: 1rem "PT Sans", sans-serif;
+}
+.modal-body{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.Both-side{
+  /* background-color: black; */
+  margin: 0 10%;
+}
